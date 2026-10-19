@@ -1,0 +1,29 @@
+## Judul
+
+Klasifikasi Penyakit Daun Padi Menggunakan Convolutional Neural Network (CNN) dengan Augmentasi Data
+
+## 1. Latar Belakang
+
+Padi merupakan salah satu tanaman pangan yang penting di Indonesia. Namun, tanaman padi dapat mengalami berbagai penyakit yang terlihat dari perubahan kondisi daunnya. Penyakit tersebut perlu dikenali agar penanganannya dapat dilakukan dengan tepat. Proses identifikasi secara manual membutuhkan pengamatan langsung dan dapat mengalami kendala ketika kondisi daun sulit dibedakan.
+
+Perkembangan pengolahan citra dan deep learning dapat dimanfaatkan untuk membantu proses identifikasi tersebut. Salah satu metode yang dapat digunakan adalah Convolutional Neural Network (CNN), yaitu metode yang mampu mempelajari pola visual pada gambar. Penelitian ini direncanakan untuk mengklasifikasikan penyakit daun padi menggunakan CNN dengan bantuan augmentasi data agar model dapat mempelajari variasi citra yang lebih beragam.
+
+## 2. Rumusan Masalah
+
+1. Bagaimana penerapan CNN untuk mengklasifikasikan penyakit daun padi berdasarkan citra?
+2. Apakah penggunaan augmentasi data dapat meningkatkan hasil klasifikasi dibandingkan pelatihan tanpa augmentasi?
+
+## 3. Tujuan Penelitian
+
+1. Menerapkan CNN untuk klasifikasi penyakit daun padi.
+2. Membandingkan hasil model yang dilatih dengan augmentasi data dan tanpa augmentasi data.
+3. Mengevaluasi performa model menggunakan metrik klasifikasi.
+
+## 4. Metode Penelitian
+
+Penelitian menggunakan pendekatan eksperimen dengan dataset citra daun padi dari Kaggle. Tahapan penelitian meliputi pengumpulan dataset, pemeriksaan label dan jumlah citra, pembagian data menjadi data pelatihan, validasi, dan pengujian, serta prapemrosesan gambar.
+
+Selanjutnya, model CNN dilatih menggunakan dua skenario, yaitu tanpa augmentasi data dan dengan augmentasi data. Hasil kedua skenario dibandingkan menggunakan metrik evaluasi yang telah ditentukan.
+
+## 5. Hasil yang Diharapkan
+Penelitian ini diharapkan dapat menunjukkan kemampuan CNN dalam mengklasifikasikan penyakit daun padi serta memberikan gambaran mengenai pengaruh augmentasi data terhadap hasil klasifikasi.
