@@ -1,0 +1,7 @@
+Penelitian terdahulu telah membahas penggunaan Convolutional Neural Network (CNN) untuk klasifikasi penyakit daun padi. Salah satu penelitian yang relevan adalah penelitian Ayuni dkk. (2023) mengenai augmentasi data pada implementasi CNN dengan arsitektur EfficientNet-B3 untuk klasifikasi penyakit daun padi.
+
+Berdasarkan penelitian tersebut, penggunaan CNN dan augmentasi data sudah pernah dibahas. Oleh karena itu, penelitian ini tidak menganggap penggunaan CNN sebagai hal yang sepenuhnya baru. Fokus penelitian diarahkan pada perbandingan hasil klasifikasi model CNN sederhana sebelum dan sesudah penggunaan augmentasi data pada dataset Leaf Rice Disease Indonesia dari Kaggle.
+
+Celah penelitian awal yang ingin dikaji adalah apakah augmentasi data memberikan peningkatan performa pada dataset yang dipilih. Hal tersebut akan diuji melalui eksperimen dengan pembagian data dan pengaturan pelatihan yang dibuat sebanding.
+
+Research gap ini masih bersifat awal dan perlu diperkuat melalui pembacaan serta perbandingan lebih lanjut terhadap penelitian terdahulu.
