@@ -21,7 +21,6 @@ Repository ini berisi proposal penelitian dan dokumentasi tugas **UTS Riset Info
 3. Research Gap
 4. Research Mind Map
 5. Rencana Evaluation Metric
-6. Daftar Pustaka
 
 ---
 
