@@ -1,2 +1,0 @@
-# Riset-Informatika
-UTS DAN UAS RISET INFORMATIKA
