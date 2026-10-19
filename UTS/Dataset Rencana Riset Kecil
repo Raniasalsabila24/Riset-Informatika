@@ -1,0 +1,21 @@
+## Sumber Dataset
+
+Nama dataset: Leaf Rice Disease Indonesia
+
+Platform: Kaggle
+
+Tautan: https://www.kaggle.com/datasets/tedisetiady/leaf-rice-disease-indonesia
+
+## Deskripsi
+
+Dataset ini direncanakan sebagai sumber citra daun padi untuk penelitian klasifikasi penyakit tanaman. Data berupa gambar yang memiliki kategori atau label penyakit sesuai isi dataset.
+
+Sebelum digunakan, dataset akan diperiksa untuk mengetahui jumlah gambar, nama kelas, distribusi data setiap kelas, serta kemungkinan adanya gambar duplikat atau gambar yang tidak sesuai.
+
+## Rencana Penggunaan
+
+Dataset akan digunakan untuk melatih dan menguji model CNN. Data akan dibagi menjadi data pelatihan, validasi, dan pengujian. Pembagian dilakukan dengan memperhatikan distribusi kelas agar hasil evaluasi lebih representatif.
+
+Augmentasi data akan diterapkan pada data pelatihan, misalnya melalui rotasi ringan, pembalikan gambar, atau perubahan ukuran. Data validasi dan pengujian tidak akan diberi augmentasi acak yang sama seperti data pelatihan.
+
+**Catatan:** Jumlah gambar dan nama kelas akhir akan dicatat setelah dataset diunduh dan diperiksa. Informasi tersebut tidak ditetapkan sebelum pemeriksaan langsung.
