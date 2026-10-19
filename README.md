@@ -15,10 +15,3 @@ Repository ini berisi rencana penelitian kecil untuk mata kuliah Riset Informati
 ### Metode Penelitian
 
 Penelitian ini menggunakan metode Convolutional Neural Network (CNN) untuk mengklasifikasikan citra daun padi ke dalam kategori penyakit sesuai label pada dataset. Augmentasi data direncanakan untuk menambah variasi citra pada data pelatihan.
-
-### Sumber Dataset
-
-Kaggle — Leaf Rice Disease Indonesia:  
-https://www.kaggle.com/datasets/tedisetiady/leaf-rice-disease-indonesia
-
-Repository ini masih berupa rencana penelitian. Hasil akurasi dan evaluasi model akan diisi setelah eksperimen dilakukan.
