@@ -2,10 +2,10 @@ Evaluasi dilakukan untuk mengukur kemampuan model CNN dalam mengklasifikasikan p
 
 Metrik yang direncanakan adalah:
 
-1. **Accuracy** — mengukur proporsi seluruh prediksi yang benar.
-2. **Precision** — mengukur ketepatan prediksi pada setiap kelas.
-3. **Recall** — mengukur kemampuan model mengenali gambar yang benar-benar termasuk dalam suatu kelas.
-4. **F1-score** — menggabungkan precision dan recall menjadi satu nilai.
-5. **Confusion matrix** — menunjukkan jumlah prediksi benar dan kesalahan klasifikasi pada setiap kelas.
+1. Accuracy — mengukur proporsi seluruh prediksi yang benar.
+2. Precision — mengukur ketepatan prediksi pada setiap kelas.
+3. Recall — mengukur kemampuan model mengenali gambar yang benar-benar termasuk dalam suatu kelas.
+4. F1-score — menggabungkan precision dan recall menjadi satu nilai.
+5. Confusion matrix — menunjukkan jumlah prediksi benar dan kesalahan klasifikasi pada setiap kelas.
 
 Perbandingan akan dilakukan dengan memperhatikan nilai metrik setiap model, bukan hanya accuracy. Nilai hasil evaluasi baru akan dicantumkan setelah eksperimen selesai dilakukan.
